@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dev! </h1> <a href="https://www.linkedin.com/in/jain-dev/">Financial Analyst</a>
+<h1>Hi, I'm Dev! </h1> 
 
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
@@ -14,4 +14,4 @@
   
   
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/jain-dev
+<a href="https://www.linkedin.com/in/jain-dev/">LinkedIn</a>
